@@ -1,0 +1,229 @@
+<!DOCTYPE HTML>
+<!--
+	Read Only by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Joel Fandos Sánchez</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<section id="header">
+				<header>
+					<span class="image avatar"><img src="images/foto1.jpg" alt="" /></span>
+					<h1 id="logo"><a href="#">Joel Fandos</a></h1>
+					<p>Actual programador</p>
+				</header>
+				<nav id="nav">
+					<ul>
+						<li></li>
+						<li><a href="#one" class="active">Sobre mí</a></li>
+						<li><a href="#two">Formación</a></li>
+						<li><a href="#three">Aficiones</a></li>
+						<li><a href="#four">Contacto</a></li>
+						<li></li>
+					</ul>
+				</nav>
+				<footer>
+					<ul class="icons">
+						<li><a href="https://twitter.com/joel_fandos"  target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="https://es-es.facebook.com/joel.fandossanchez" target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="https://www.instagram.com/joelfandos/" target="_blank" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="https://mail.google.com/mail/u/0/?tab=rm#inbox" target="_blank" class="icon fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+				</footer>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one">
+								<div class="image main" data-position="center">
+									<img src="images/foto2.jpg" alt="" />
+								</div>
+								<div class="container">
+									<header class="major">
+										<i><u><h2>Sobre mí</h2></u></i>
+										<strong><p>DATOS PERSONALES</p></strong>
+									</header>
+									<p>Lugar y fecha de nacimiento: Barcelona, 20.08.2000.</p>
+
+									<p>Dirección: Av. Granvia de l’Hospitalet, 9 5º 4ª, 08908 L’HOSPITALET DE LLOBREGAT </p>
+
+									<p>Teléfonos: 934 228 523 – 647 151 016</p>
+
+									<p>Correo electrónico: joelfandos00@gmail.com</p>
+
+									<p>Documento Nacional de Identidad: 24415914B</p>
+								</div>
+							</section>
+
+						<!-- Two -->
+							<section id="two">
+								<div class="container">
+									<h3>FORMACIÓN </h3>
+									
+ 	<h8>REGLADA</h8>
+ 	<p>
+ 
+ ➢	Actualmente cursando ciclo superior de informática. Escuela Centro de Estudios Joan XXIII. 
+Del año 2018 hasta actualidad.
+
+<br>
+➢	Bachillerato. Escuela Centro de Estudios Joan XXIII. 
+              Bachillerato de la rama tecnológico. 
+              Del año 2016 al año 2018. 
+ 
+<br>
+➢	Educación Secundaria Obligatoria (ESO). Escuela Casal dels Ángels.             
+Del año 2012 al año 2016.
+<br>
+➢	Educación Primaria. Escuela Casal dels Ángels. 
+Del año 2006 hasta el 2012. 
+</p>
+
+<h8>IDIOMAS</h8>
+<p>
+
+➢	Catalán: leído, hablado y escrito correctamente. 
+<br>
+➢	Castellano: leído, hablado y escrito correctamente. 
+<br>
+➢	Inglés: nivel B1.
+</p>
+
+<h8>EXPERIENCIA PROFESIONAL</h8>
+ <br>
+ <p>
+➢	Entrenador de fútbol en C.F. Santa Eulalia.
+</p>
+
+<h8>DATOS COMPLEMENTARIOS</h8>
+ <br>
+ <p>
+ 
+➢	Conocimientos informáticos a nivel de usuario en entorno windows: paquete office (word, excel, power point…), lotus notes, entorno SAP y microsoft outlook.  
+<br>
+➢	Lenguajes de programación: HTML5, CSS3, JavaScript, Jquery, PHP, SQL
+</p>
+
+ 
+<h8>DISPONIBILIDAD</h8>
+<br>
+ <p>
+➢	Incorporación inmediata. 
+<br>
+➢	Disponibilidad de media jornada (tarde).
+</p>
+
+<h8>APTITUDES</h8>
+<br><br>
+
+
+									<ul class="feature-icons">
+										<li class="fa-comments">Facilidad de trato</li>
+										<li class="fa-battery-full">Iniciativa y dinamismo</li>
+										<li class="fa-user">Capacidad de autonomía</li>
+										<li class="fa-pencil">Capacidad de autoformación</li>
+										<li class="fa-users">Trabajo en equipo</li>
+										<li class="fa-folder-open">Organizado</li>
+									</ul>
+								</div>
+							</section>
+
+						<!-- Three -->
+							<section id="three">
+								<div class="container">
+									<h3>Aficiones</h3>
+									<p>Aquí presento mis aficiones donde podéis sacar conclusiones sobre mis cualidades a partir de lo que me gusta hacer.</p>
+									<div class="features">
+										<article>
+											<a href="#" class="image"><img src="images/foto3.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Jugar a Fútbol</h4>
+												<p>Esta aficion puede señalar el perfil de alguien que sabe de la importancia de trabajar en equipo para lograr el éxito común. Dotes de comunicación, de liderazgo y de gestión de grupos (sobre todo si es el capitán del equipo) son cualidades, sin duda, valoradas.</p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/foto4.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Fotografía</h4>
+												<p>Puede ser el perfil de una persona muy observadora, de una persona activa que se mueve y le gusta vivir nuevas experiencias, además de una persona creativa.</p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/foto5.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Viajar</h4>
+												<p>Te servirá en bandeja la posibilidad de ser más observador y reflexivo. Por si esto fuera poco, en cada nuevo lugar que viajes conocerás gente nueva, culturas fascinantes y comidas que jamás habrías podido imaginar, y esto es lo que define a una persona que se adapta a los cambios.</p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/foto6.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Música</h4>
+												<p>Dice de una persona bastante calmada, que le gusta tener momento del día para relajarse.</p>
+											</div>
+										</article>
+									</div>
+								</div>
+							</section>
+
+						<!-- Four -->
+							<section id="four">
+								<div class="container">
+									<h3>Contáctame</h3>
+									<p>Puedes contactar conmigo en la forma que prefieras, bien directamente por teléfono o email, bien solicitando que sea yo quien te llame gratuitamente, o rellenando el  formulario de contacto. </p>
+									<form method="post" action="#">
+										<div class="row gtr-uniform">
+											<div class="col-6 col-12-xsmall"><input type="text" name="name" id="name" placeholder="Nombre" /></div>
+											<div class="col-6 col-12-xsmall"><input type="email" name="email" id="email" placeholder="Correo" /></div>
+											<div class="col-12"><input type="text" name="subject" id="subject" placeholder="Tema" /></div>
+											<div class="col-12"><textarea name="message" id="message" placeholder="Mensaje" rows="6"></textarea></div>
+											<div class="col-12">
+												<ul class="actions">
+													<li><input type="submit" class="primary" value="Enviar Mensaje" /></li>
+													<li><input type="reset" value="Borrar" /></li>
+												</ul>
+											</div>
+										</div>
+									</form>
+								</div>
+							</section>
+
+						
+
+					</div>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="container">
+							<ul class="copyright">
+								<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="#four">JOEL FANDOS</a></li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
